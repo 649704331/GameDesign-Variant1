@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>A</role>
+        <detail>“姐姐姐姐，妈妈去哪了”</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>“姐姐姐姐，爸爸这个样子好可怕”</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>“姐姐姐姐”</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>“姐姐……好痛苦……姐姐……救救我”</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>……这是什么声音？</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>头好痛……我是在哪？</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>还是先找出口离开吧</detail>
+    </dialogue>
+</dialogues>
+

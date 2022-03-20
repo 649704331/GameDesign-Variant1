@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>父亲</role>
+    <detail>我只是，只是……</detail>
+  </dialogue>
+  <dialogue>
+    <role>父亲</role>
+    <detail>不想再失去了……不论是你，还是琦……</detail>
+  </dialogue>
+  <dialogue>
+    <role>琦</role>
+    <detail>“……”</detail>
+  </dialogue>
+  <dialogue>
+    <role>琦</role>
+    <detail>“……姐姐？”</detail>
+  </dialogue>
+  <dialogue>
+    <role>琦</role>
+    <detail>“姐姐……是你救了我吗？”</detail>
+  </dialogue>
+</dialogues>
+

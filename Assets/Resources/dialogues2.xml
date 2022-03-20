@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>A</role>
+        <detail>我想起来了</detail>
+    </dialogue>
+  <dialogue>
+    <role>A</role>
+    <detail>一次灾难夺走了母亲的生命和父亲的双腿，我和弟弟相依为命</detail>
+  </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>父亲不堪其悲，开始了禁忌的人体实验，在魔法的道路上侵蚀了理智，走火入魔</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>‘我找到了’，一天他从实验室出来，声调颤抖‘让我们再也不会受到伤害的方法’</detail>
+    </dialogue>
+  <dialogue>
+    <role>A</role>
+    <detail>‘人和兽的融合！坚强的理智和强硬的体魄！’</detail>
+  </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>那天开始，便是我一生的梦魇……</detail>
+    </dialogue>
+  <dialogue>
+    <role>A</role>
+    <detail>……我想，我应该是第一个被丢弃的实验失败品</detail>
+  </dialogue>
+  <dialogue>
+    <role>A</role>
+    <detail>……但绝对不是最后一个</detail>
+  </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>那个声音……是琦！</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>弟弟在哪？他也被做了实验吗？！</detail>
+    </dialogue>
+  <dialogue>
+    <role>A</role>
+    <detail>我必须去救他！</detail>
+  </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>上天保佑我还来得及... ...</detail>
+    </dialogue>
+</dialogues>
+
+

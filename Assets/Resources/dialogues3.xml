@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>父亲</role>
+        <detail>没想到啊，琦，居然是你最终成为了最完美的‘神’</detail>
+    </dialogue>
+    <dialogue>
+        <role>琦</role>
+        <detail>爸爸，停下吧，我们回去一起重新生活好吗，妈妈在的话，也不会希望我们变成这样的</detail>
+    </dialogue>
+    <dialogue>
+        <role>父亲</role>
+        <detail>琦，你不明白，如果我早一点做成这个，妈妈也不会死。</detail>
+    </dialogue>
+    <dialogue>
+        <role>珏</role>
+        <detail>琦！</detail>
+    </dialogue>
+<dialogue>
+        <role>琦</role>
+        <detail>姐姐，救我，我... ...</detail>
+    </dialogue>
+<dialogue>
+        <role>父亲</role>
+        <detail>珏，你竟然还活着</detail>
+    </dialogue>
+  <dialogue>
+    <role>父亲</role>
+    <detail>不过没关系，最完美的作品已经完成了……</detail>
+  </dialogue>
+  <dialogue>
+    <role>父亲</role>
+    <detail>琦，去杀死那个失败品！</detail>
+  </dialogue>
+</dialogues>
+
